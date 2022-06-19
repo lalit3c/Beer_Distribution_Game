@@ -51,7 +51,7 @@ npm run start
 
 # Introduction
 
-This is the ReadMe.md for Sprint 03 Group 7 consisting of team members: Tuan Pham and Subigya Paudel.
+
 
 The previous code base the landing page of the website immplemented and routing to some react components (like demonstration of game settings)
 
