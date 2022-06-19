@@ -1,4 +1,4 @@
-# Beer Game
+# Beer_Distribution_Game
 
 ### Sprint 4
 - Frontend:
@@ -271,4 +271,4 @@ Still since the project was too much undeveloped we took our time to work on the
 ---
 
 
-# Beer_Distribution_Game
+
